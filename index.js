@@ -35,7 +35,7 @@ class Square extends Polygon{
   }
   
   get area(){
-    
+    if(countSides()!==4)  return;
   }
 }
 
