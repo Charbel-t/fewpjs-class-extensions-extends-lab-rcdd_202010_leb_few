@@ -9,6 +9,6 @@ class Polygon{
   
   get perimeter(){
     let sum=0;
-    for(i of this.sides)  sum++;
+    for(i of this.sides)  sum+=i;
   }
 }
