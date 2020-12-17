@@ -33,5 +33,9 @@ class Square extends Polygon{
     let side4=this.sides[3];
     return ((side1==side2)&&(side1==side3)&&(side1==side4));
   }
+  
+  get area(){
+    
+  }
 }
 
