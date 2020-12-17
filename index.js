@@ -9,7 +9,11 @@ class Polygon{
   
   get perimeter(){
     let sum=0;
-    for (i of this.sides) {sum+=i;}
+    for (let i of this.sides)  sum+=i;
     return sum;
   }
+}
+
+class Triangle{
+  
 }
