@@ -20,6 +20,7 @@ class Triangle extends Polygon{
     let side1=this.sides[0];
     let side2=this.sides[1];
     let side3=this.sides[2];
+    return 
   }
 }
 
