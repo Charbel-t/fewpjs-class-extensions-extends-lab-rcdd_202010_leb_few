@@ -8,6 +8,6 @@ class Polygon{
   }
   
   get perimeter(){
-    for()
+    for(i of )
   }
 }
